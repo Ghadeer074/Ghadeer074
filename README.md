@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ghadeer074
-- 👀 I’m interested in Software engneering and Artificial intelligence 
+- 👀 I’m interested in Software engneering, Artificial intelligence, and Data science. 
 - 🌱 I’m currently learning Python and Artificial intelligence fundamentals, and Full-stack devoloping. 
 - 💞️ I’m looking to collaborate on Programming projects and anything related to AI 
 - 📫 How to reach me : https://www.linkedin.com/in/ghadeer-fallatah-842988286/
