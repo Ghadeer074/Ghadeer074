@@ -6,7 +6,7 @@ I'm a Computer Science graduate (Umm Al-Qura University, Second Honors) and a Da
 
 - 🔭 **Currently:** building ELT pipelines with Azure, Snowflake and dbt
 - 📱 **Shipped:** 5+ iOS apps, one live on the App Store
-- 🤝 **Open to:** entry-level roles in Data Engineering, Data Analysis, AI/ML or iOS Development
+- 🤝 **Open to:** entry-level roles in Data Engineering, Data Analysis, AI/ML
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/ghadeer-fallatah-842988286) · fallatahghadeer@gmail.com
 
 ## 🛠️ Tech Stack
