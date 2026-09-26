@@ -1,6 +1,6 @@
 # Hi, I'm Ghadeer Fallatah 👋
 
-**Data Engineer · AI/ML · iOS Developer**, based in Saudi Arabia 🇸🇦
+**Data Engineer · Data Analyst · AI/ML **, based in Saudi Arabia 🇸🇦
 
 I'm a Computer Science graduate (Umm Al-Qura University, Second Honors) and a Data Engineering graduate of **Saudi Digital Academy**, and I was an **Apple Developer Academy** scholar. I build data pipelines, train deep learning models, and ship iOS apps.
 
